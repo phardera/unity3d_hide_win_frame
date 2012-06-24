@@ -1,0 +1,17 @@
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 9.0c [nvd3dum.dll 8.17.12.9573]
+    Renderer: NVIDIA GeForce 9600 GT
+    Vendor:   NVIDIA
+    VRAM:     487 MB (via DXGI)
+    Caps:     Shader=30 DepthRT=1 NativeDepth=1 NativeShadow=1 DF16=0 DF24=0 INTZ=1 RAWZ=0 NULL=1 RESZ=0 SlowINTZ=0
+desktop: 1680x1050 59Hz; virtual: 4240x1050 at -1280,0
+<I> Initializing (RawInput).
+<RI> Input initialized.
+Initialize engine version: 3.5.2f2
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\macaronics\Desktop\hide_win_frame_gitrepo\hide_win_frame_deploy\hide_win_frame_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\macaronics\Desktop\hide_win_frame_gitrepo\hide_win_frame_deploy\hide_win_frame_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\macaronics\Desktop\hide_win_frame_gitrepo\hide_win_frame_deploy\hide_win_frame_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\macaronics\Desktop\hide_win_frame_gitrepo\hide_win_frame_deploy\hide_win_frame_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+- Completed reload, in  0.067 seconds
